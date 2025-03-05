@@ -1,3 +1,3 @@
-import scrapingExample from "./scrapers/scrapingExample.js";
+import runScraping from "./scrapers/runScraping.js";
 
-scrapingExample();
+runScraping();
